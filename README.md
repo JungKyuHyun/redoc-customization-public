@@ -12,3 +12,5 @@ This project provides a theme customization UI for the "Redoc" project, which is
 ## Live demo
 
 [https://redoc-customization.vercel.app](https://redoc-customization.vercel.app/)
+
+![image](https://user-images.githubusercontent.com/42884032/162614302-398ba054-b437-4fde-a6bd-d8dd69b023be.png)
