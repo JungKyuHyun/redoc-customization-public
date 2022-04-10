@@ -2,6 +2,8 @@
 
 # 📘 redoc-customization-public
 
+[![Storybook](https://cdn.jsdelivr.net/gh/storybookjs/brand@master/badge/badge-storybook.svg)](https://redoc-customization.vercel.app/)
+
 You can submit bugs or comments about this project.
 
 ## Redoc vs Redocly
