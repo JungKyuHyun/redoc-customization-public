@@ -3,3 +3,12 @@
 # 📘 redoc-customization-public
 
 You can submit bugs or comments about this project.
+
+## Redoc vs Redocly
+
+This project provides a theme customization UI for the "Redoc" project, which is open source and not "Redocly".
+
+
+## Live demo
+
+[https://redoc-customization.vercel.app](https://redoc-customization.vercel.app/)
